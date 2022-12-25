@@ -8,5 +8,7 @@ public class SendingBranch {
         //Sending new branch to Lilya
 
         System.out.println("Sending new branch");
+
+        System.out.println("Merry Christmas!");
     }
 }
