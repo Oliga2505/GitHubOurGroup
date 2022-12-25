@@ -15,6 +15,8 @@ public class Practice {
         } else {
             System.out.println("Never mind");
 
+            System.out.println("Merry Christmas!");
+
 
         }
 
